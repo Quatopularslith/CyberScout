@@ -1,0 +1,15 @@
+Desktop/project/project
+Desktop/project/target
+Desktop/target
+Desktop/.idea
+Desktop/build.properties
+
+./idea
+target/
+build.properties
+
+Server/project/project
+Server/project/target
+Server/target
+Server/.idea
+Server/build.properties
