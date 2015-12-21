@@ -21,3 +21,7 @@ Android/.DS_Store
 .DS_Store
 Android/build
 Android/captures
+Android/.gradle
+Android/gradle
+Android/gradlew
+Android/gradlew.bat
