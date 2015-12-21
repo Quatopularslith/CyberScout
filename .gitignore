@@ -4,7 +4,7 @@ Desktop/target
 Desktop/.idea
 Desktop/build.properties
 
-./idea
+.idea/
 target/
 build.properties
 
