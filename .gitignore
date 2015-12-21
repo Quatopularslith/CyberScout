@@ -13,3 +13,11 @@ Server/project/target
 Server/target
 Server/.idea
 Server/build.properties
+
+*.iml
+.gradle
+Android/local.properties
+Android/.DS_Store
+.DS_Store
+Android/build
+Android/captures
