@@ -8,5 +8,7 @@ scalaVersion := "2.11.7"
 
 Seq(clojure.settings :_*)
 
-libraryDependencies += "org.clojure" % "clojure" % "1.5.1"
+libraryDependencies ++= Seq(
+  "org.clojure" % "clojure" % "1.5.1"
+)
     
